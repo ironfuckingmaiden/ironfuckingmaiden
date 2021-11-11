@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ironfuckingmaiden
+
 - 👀 I’m interested in Python program
